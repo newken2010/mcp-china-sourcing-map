@@ -1,5 +1,7 @@
 # mcp-china-sourcing-map
 
+[![mcp-china-sourcing-map MCP server](https://glama.ai/mcp/servers/newken2010/mcp-china-sourcing-map/badges/score.svg)](https://glama.ai/mcp/servers/newken2010/mcp-china-sourcing-map)
+
 中国供应链地图 MCP：一个工具集帮海外买家端到端规划一次中国采购
 （找厂 → 比价 → MOQ → 验供应商 → 运费 → 关税 → 热销趋势）。
 
